@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # Distribution / packaging
 .Python
 /build/
@@ -15,9 +14,10 @@ __pycache__/
 /*.egg-info/
 .installed.cfg
 *.egg
-
 # Unit test / coverage reports
 .coverage
 .coverage.*
 coverage.xml
 *.cover
+*.h5
+*.jpg
